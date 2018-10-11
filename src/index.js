@@ -1,5 +1,4 @@
 // import 'babel-core/polyfill'
-// import React, { Component } from 'react'
 import React from 'react'
 import { render } from 'react-dom'
 import logger from 'redux-logger'
